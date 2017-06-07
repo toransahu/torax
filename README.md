@@ -1,2 +1,2 @@
 # torax
-A personal OS based on Linux Kernel
+A tiny personal Linux distro:source code.
